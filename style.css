@@ -1,0 +1,17 @@
+.dias{
+    font-size: 20px;
+}
+.diahabil{
+    background-color: aqua;
+}
+.sabado{
+    background-color: blue;
+}
+.domingo{
+    background-color: brown;
+}
+/*titulo de la tabla*/
+caption{
+    font-size: 30px;
+    color:  chartreuse;
+}
